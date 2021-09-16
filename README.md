@@ -1,12 +1,12 @@
-# [Java] Snake Game
+# Java-SnakeGame
 - Snake game coded by Java.
 
-### [Feature]
+### Feature
 - Main Menu
 - Game Over Screen and Play Again 
-- High Score!
+- High Score
 
-### [End - Credit]
+## End - Credit
 - If you find any error, please contact me.
 - Im not good at Java, sorry!
 - *Contact: TienCuong#5110*

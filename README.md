@@ -1,7 +1,7 @@
 # Java-SnakeGame
 - Snake game coded by Java.
 
-### Feature
+## Feature
 - Main Menu
 - Game Over Screen and Play Again 
 - High Score

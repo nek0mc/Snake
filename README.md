@@ -6,8 +6,7 @@
 - Game Over Screen and Play Again 
 - High Score
 
-## End - Credit
+## End
 - If you find any error, please contact me.
-- Im not good at Java, sorry!
-- *Contact: TienCuong#5110*
+- I'm not good at Java, sorry!
 
